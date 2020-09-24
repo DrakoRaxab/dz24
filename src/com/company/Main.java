@@ -10,6 +10,4 @@ public class Main extends Logic {
         double result = calc(num1, num2, operation);
         System.out.println("Результат:" + result);
     }
-
-
 }
